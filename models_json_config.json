@@ -1,0 +1,11 @@
+{
+  "models": [
+    "mistral:latest",
+    "qwen2.5:latest",
+    "deepseek-v2:latest",
+    "llama3.2:latest",
+    "gemma3:latest"
+  ],
+  "default_model": "llama3.2:latest",
+  "last_updated": "2025-06-23T10:30:00"
+}

@@ -1,0 +1,9 @@
+/usr/local/bin/python3 setup.py py2app
+
+/usr/local/bin/python3 setup.py py2app
+
+
+
+
+
+/usr/local/bin/python3 local_text_corrector.py
